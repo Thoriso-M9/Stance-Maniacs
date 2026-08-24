@@ -6,11 +6,12 @@ Stance Maniacs is a fully responsive, multi-page website designed to represent a
 
 Pages
 Page	Description
-landingpage.html	Full-screen autoplay video intro with a slide-out navigation menu
-index.html	Home page with a featured "collection" hero, highlighted builds, and "why choose us" section
-about.html	Brand story, team/service breakdown, company values, achievements, and client testimonials
-portfolio.html	Image gallery of completed builds with hover overlays describing each car's specs
-contact.html	Contact details, an embedded Google Map, and a client inquiry form with HTML5 validation
+landingpage.html: Full-screen autoplay video intro with a slide-out navigation menu
+index.html: Home page with a featured "collection" hero, highlighted builds, and "why choose us" section
+about.html: Brand story, team/service breakdown, company values, achievements, and client testimonials
+portfolio.html:	Image gallery of completed builds with hover overlays describing each car's specs
+contact.html:	Contact details, an embedded Google Map, and a client inquiry form with HTML5 validation
+
 Features
  - Responsive design — hamburger navigation for mobile, adaptive layouts across all pages
  - Video hero section on the landing page for strong first impressions
